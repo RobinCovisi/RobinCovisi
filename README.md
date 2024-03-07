@@ -50,7 +50,7 @@ ________________________________________________________________________________
 [<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="50"></a>](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
 
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient
+(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient)
 
 <table cellpadding="0">
   <tr style="padding: 0">
