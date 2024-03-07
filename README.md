@@ -40,14 +40,14 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________
 #### Bootcamps e Cursos:
-[<img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" height="50"></a>](https://web.dio.me/track/formacao-html-web-developer);
+[<img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" height="50"></a>](https://web.dio.me/track/formacao-html-web-developer)
 [<img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" height="50"></a>](https://web.dio.me/track/santander-bootcamp-ciberseguranca);
-[<img src="https://hermes.dio.me/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" height="50"></a>](https://web.dio.me/track/formacao-cybersecurity);
-[<img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer);
-[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer);
-[<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="50"></a>](https://web.dio.me/track/formacao-logica-de-programacao);
-[<img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" height="50"></a>](https://web.dio.me/track/formacao-php-experience);
-[<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="50"></a>](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero);
+[<img src="https://hermes.dio.me/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" height="50"></a>](https://web.dio.me/track/formacao-cybersecurity)
+[<img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" height="50"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" height="50"></a>](https://web.dio.me/track/formacao-javascript-developer)
+[<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" height="50"></a>](https://web.dio.me/track/formacao-logica-de-programacao)
+[<img src="https://hermes.dio.me/tracks/20b04ddf-42a7-4945-b004-e6cd8b1a798f.png" height="50"></a>](https://web.dio.me/track/formacao-php-experience)
+[<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="50"></a>](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
 
 
  <https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=RobinCovisi/>
