@@ -4,8 +4,8 @@
 
 - Graduando em Analise e Desenvolvimento de Sistemas , cursando Cyber Security.
 - Apaixonado.
-- Migrei para a área de programação em 2023, mirei na engenharia e acertei a tecnologia e me apaixonei .
-- Hoje a minha vida é ganhar mais conhecimentos, equilibrando a minha vida pessoal com a profissional.
+- Migrei para a área de programação em 2023, mirei na engenharia e acertei a tecnologia, e me apaixonei .
+- Hoje a minha vida é ganhar mais conhecimentos, equilibrando a vida pessoal com a profissional.
 
 __________________________________________________________________________________________________________________
 ### ⚡ Tecnologias que estudo e estudei durante minha jornada.
